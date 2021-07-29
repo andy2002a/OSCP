@@ -3,6 +3,9 @@
 #pip packages
 pip install --user -U pipx
 pip install --upgrade pip
+pip install --upgrade virtualenv
+pip install --upgrade virtualenvwrapper
+pip install --upgrade pipx
 
 #pipx
 pipx upgrade pypykatz
