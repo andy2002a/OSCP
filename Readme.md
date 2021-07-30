@@ -33,7 +33,7 @@ Get some basic python background even if it's only one or two days dedicated to 
 
 Learn when you need to explicitly run a script with python2 vs python3. This usually manifests itself as a syntax error when the script tries to print a string. This is pretty simple but it can lead to frustration if you have no idea what to look for when the error pops up.
 
-Use virtual python environments! Set up [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) and you will never have to worry about package dependencies. I didn't use this on my first Kali machine which resulted in python becoming unusable from so many package version mismatches/conflicts. I never had any python related issues once I configured and ran virtualenvwrapper for every script I ran. Also, it allows you to specify python2 or python3 when creating the virtual environments.
+Use virtual python environments! Set up [virtualenvwrapper](https://chousensha.github.io/blog/2016/07/30/python-virtualenv/) and you will never have to worry about package dependencies. I didn't use this on my first Kali machine which resulted in python becoming unusable from so many package version mismatches/conflicts. I never had any python related issues once I configured and ran virtualenvwrapper for every script I ran. Also, it allows you to specify python2 or python3 when creating the virtual environments.
 
 You can take virtual environments even further by using [pipx](https://github.com/pipxproject/pipx) whenever possible.
 
