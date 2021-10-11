@@ -18,7 +18,7 @@ My total cost to get the cert was just under $1,500. That consisted of the PWK, 
 
 ## Overall Strategy
 
-- Learn the Basics with the Udemy courses
+- Learn the Basics with the Udemy/TCM courses
 - Practice with TryHackMe/HackTheBox
 - Complete the PWK material for the extra points
 - Practice with the Proving Grounds Machines
@@ -39,7 +39,7 @@ You can take virtual environments even further by using [pipx](https://github.co
 
 ## Practical Ethical Hacking - The Complete Course
 
-I highly recommend purchasing this course before the PWK. This will teach you a lot of the PWK content and I feel like it does a much better job of giving you come hands on experience on exam topics. There's usually [some kind of coupon going on](https://twitter.com/thecybermentor) so you should be able to get it for less than retail.
+I highly recommend [purchasing this course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) before the PWK. This will teach you a lot of the PWK content and I feel like it does a much better job of giving you come hands on experience on exam topics. There's usually [some kind of sale going on](https://twitter.com/thecybermentor) so you should be able to get it for less than retail.
 
 One thing to note is that this course also has some content related to Active Directory. I found it extremely interesting and helpful, but you do not need it for the exam (at least for now), so I would skip it entirely and come back to it once you complete the exam.
 
@@ -57,9 +57,9 @@ Once you complete the PEH and PWK course I would move onto the ones below in any
 
 [Windows Privilege Escalation for OSCP & Beyond! (Tib3rius)](https://www.udemy.com/course/windows-privilege-escalation/)
 
-[Linux Privilege Escalation for Beginners (TCM)](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/)
+[Linux Privilege Escalation for Beginners (TCM)](https://academy.tcm-sec.com/p/linux-privilege-escalation)
 
-[Windows Privilege Escalation for Beginners (TCM)](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
+[Windows Privilege Escalation for Beginners (TCM)](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
 ## TryHackMe/HackTheBox
 
